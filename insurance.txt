@@ -1,2 +1,6 @@
 car insurance
 mega car insurance++
+
+while (alive) {
+  life insurance++;
+}
